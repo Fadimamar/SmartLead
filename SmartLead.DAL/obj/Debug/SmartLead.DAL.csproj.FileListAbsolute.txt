@@ -1,0 +1,10 @@
+C:\Users\Fadi\Documents\Visual Studio 2017\Projects\SmartLead\SmartLead.DAL\bin\Debug\SmartLead.DAL.dll.config
+C:\Users\Fadi\Documents\Visual Studio 2017\Projects\SmartLead\SmartLead.DAL\bin\Debug\SmartLead.DAL.dll
+C:\Users\Fadi\Documents\Visual Studio 2017\Projects\SmartLead\SmartLead.DAL\bin\Debug\SmartLead.DAL.pdb
+C:\Users\Fadi\Documents\Visual Studio 2017\Projects\SmartLead\SmartLead.DAL\bin\Debug\EntityFramework.dll
+C:\Users\Fadi\Documents\Visual Studio 2017\Projects\SmartLead\SmartLead.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Fadi\Documents\Visual Studio 2017\Projects\SmartLead\SmartLead.DAL\bin\Debug\EntityFramework.xml
+C:\Users\Fadi\Documents\Visual Studio 2017\Projects\SmartLead\SmartLead.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Fadi\Documents\Visual Studio 2017\Projects\SmartLead\SmartLead.DAL\obj\Debug\SmartLead.DAL.csprojResolveAssemblyReference.cache
+C:\Users\Fadi\Documents\Visual Studio 2017\Projects\SmartLead\SmartLead.DAL\obj\Debug\SmartLead.DAL.dll
+C:\Users\Fadi\Documents\Visual Studio 2017\Projects\SmartLead\SmartLead.DAL\obj\Debug\SmartLead.DAL.pdb

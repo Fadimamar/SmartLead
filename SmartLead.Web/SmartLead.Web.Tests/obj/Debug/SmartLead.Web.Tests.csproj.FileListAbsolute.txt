@@ -1,0 +1,1 @@
+C:\Users\Fadi\Documents\Visual Studio 2017\Projects\SmartLead\UnitTestSmartLead\SmartLead.Web.Tests\obj\Debug\SmartLead.Web.Tests.csprojResolveAssemblyReference.cache
